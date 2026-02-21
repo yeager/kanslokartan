@@ -1,8 +1,10 @@
 [Desktop Entry]
 Type=Application
 Name=Emotion Map
+Name[sv]=Känslokartan
 GenericName=Learn to recognize emotions
 Comment=Learn to recognize emotions
+Comment[sv]=Känn igen och uttryck känslor
 Exec=kanslokartan
 Icon=kanslokartan
 Terminal=false
