@@ -1,110 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: kanslokartan 0.1.0\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-21 20:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: source
-msgid "About Emotion Map"
-msgstr ""
-
-#: source
-msgid "Angry"
-msgstr ""
-
-#: source
-msgid "Calm"
-msgstr ""
-
-#: source
-msgid "Correct! \\u2705"
-msgstr ""
-
-#: source
-msgid "Date"
-msgstr ""
-
-#: source
-msgid "Details"
-msgstr ""
-
-#: source
-msgid "Disgusted"
-msgstr ""
-
-#: source
+#: src/export.py:11 src/main.py:81 src/main.py:101
 msgid "Emotion Map"
 msgstr ""
 
-#: source
-msgid "Export Results"
+#: src/export.py:23
+msgid "Date"
 msgstr ""
 
-#: source
-msgid "Exported to %s"
+#: src/export.py:23
+msgid "Details"
 msgstr ""
 
-#: source
-msgid "Happy"
-msgstr ""
-
-#: source
-msgid "Keyboard Shortcuts"
-msgstr ""
-
-#: source
-msgid "Next"
-msgstr ""
-
-#: source
-msgid "Not quite. It was: %s"
-msgstr ""
-
-#: source
-msgid "Proud"
-msgstr ""
-
-#: source
-msgid "Quit"
-msgstr ""
-
-#: source
+#: src/export.py:23
 msgid "Result"
 msgstr ""
 
-#: source
+#: src/export.py:45
+msgid "Export"
+msgstr ""
+
+#: src/main.py:25
+msgid "Happy"
+msgstr ""
+
+#: src/main.py:26
 msgid "Sad"
 msgstr ""
 
-#: source
+#: src/main.py:27
+msgid "Angry"
+msgstr ""
+
+#: src/main.py:28
 msgid "Scared"
 msgstr ""
 
-#: source
-msgid "Score: %d / %d"
-msgstr ""
-
-#: source
-msgid "Score: 0 / 0"
-msgstr ""
-
-#: source
+#: src/main.py:29
 msgid "Surprised"
 msgstr ""
 
-#: source
+#: src/main.py:30
+msgid "Disgusted"
+msgstr ""
+
+#: src/main.py:31
+msgid "Calm"
+msgstr ""
+
+#: src/main.py:32
 msgid "Tired"
 msgstr ""
 
-#: source
+#: src/main.py:33
+msgid "Worried"
+msgstr ""
+
+#: src/main.py:34
+msgid "Proud"
+msgstr ""
+
+#: src/main.py:116
+msgid "Export Results"
+msgstr ""
+
+#: src/main.py:117
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+#: src/main.py:118
+msgid "About Emotion Map"
+msgstr ""
+
+#: src/main.py:119
+msgid "Quit"
+msgstr ""
+
+#: src/main.py:123
 msgid "Toggle dark/light theme"
 msgstr ""
 
-#: source
+#: src/main.py:127
+msgid "Score: 0 / 0"
+msgstr ""
+
+#: src/main.py:138
 msgid "What emotion is this?"
 msgstr ""
 
-#: source
-msgid "Worried"
+#: src/main.py:155
+msgid "Next"
+msgstr ""
+
+#: src/main.py:198
+msgid "Correct! ✅"
+msgstr ""
+
+#: src/main.py:200
+#, python-format
+msgid "Not quite. It was: %s"
+msgstr ""
+
+#: src/main.py:202
+#, python-format
+msgid "Score: %d / %d"
+msgstr ""
+
+#: src/main.py:225
+#, python-format
+msgid "Exported to %s"
 msgstr ""
