@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Emotion Map
+GenericName=Learn to recognize emotions
+Comment=Learn to recognize emotions
+Exec=kanslokartan
+Icon=kanslokartan
+Terminal=false
+Categories=Education;Accessibility;
+Keywords=autism;adhd;accessibility;children;
