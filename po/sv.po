@@ -1,0 +1,117 @@
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: kanslokartan 0.1.0\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305145/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/kanslokartan/main.py:1
+msgid "About Emotion Map"
+msgstr "Om Känslokartan"
+
+#: src/kanslokartan/main.py:2
+msgid "Angry"
+msgstr "Arg"
+
+#: src/kanslokartan/main.py:3
+msgid "Calm"
+msgstr "Lugn"
+
+#: src/kanslokartan/main.py:4
+msgid "Correct! \\u2705"
+msgstr "Rätt! \\u2705"
+
+#: src/kanslokartan/main.py:5
+msgid "Date"
+msgstr "Datum"
+
+#: src/kanslokartan/main.py:6
+msgid "Details"
+msgstr "Detaljer"
+
+#: src/kanslokartan/main.py:7
+msgid "Disgusted"
+msgstr "Äcklad"
+
+#: src/kanslokartan/main.py:8
+msgid "Emotion Map"
+msgstr "Känslokartan"
+
+#: src/kanslokartan/main.py:9
+msgid "Export Results"
+msgstr "Exportera resultat"
+
+#: src/kanslokartan/main.py:10
+msgid "Exported to %s"
+msgstr "Exporterades till %s"
+
+#: src/kanslokartan/main.py:11
+msgid "Happy"
+msgstr "Glad"
+
+#: src/kanslokartan/main.py:12
+msgid "Keyboard Shortcuts"
+msgstr "Tangentbordsgenvägar"
+
+#: src/kanslokartan/main.py:13
+msgid "Next"
+msgstr "Nästa"
+
+#: src/kanslokartan/main.py:14
+msgid "Not quite. It was: %s"
+msgstr "Inte riktigt. Det var: %s"
+
+#: src/kanslokartan/main.py:15
+msgid "Proud"
+msgstr "Stolt"
+
+#: src/kanslokartan/main.py:16
+msgid "Quit"
+msgstr "Avsluta"
+
+#: src/kanslokartan/main.py:17
+msgid "Result"
+msgstr "Resultat"
+
+#: src/kanslokartan/main.py:18
+msgid "Sad"
+msgstr "Ledsen"
+
+#: src/kanslokartan/main.py:19
+msgid "Scared"
+msgstr "Rädd"
+
+#: src/kanslokartan/main.py:20
+msgid "Score: %d / %d"
+msgstr "Poäng: %d / %d"
+
+#: src/kanslokartan/main.py:21
+msgid "Score: 0 / 0"
+msgstr "Poäng: 0 / 0"
+
+#: src/kanslokartan/main.py:22
+msgid "Surprised"
+msgstr "Förvånad"
+
+#: src/kanslokartan/main.py:23
+msgid "Tired"
+msgstr "Trött"
+
+#: src/kanslokartan/main.py:24
+msgid "Toggle dark/light theme"
+msgstr "Växla mörkt/ljust tema"
+
+#: src/kanslokartan/main.py:25
+msgid "What emotion is this?"
+msgstr "Vilken känsla är det här?"
+
+#: src/kanslokartan/main.py:26
+msgid "Worried"
+msgstr "Oroad"
