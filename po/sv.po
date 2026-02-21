@@ -1,9 +1,18 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 # Translators:
 # Daniel Nylander <po@danielnylander.se>, 2026
 # 
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: kanslokartan 0.1.0\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-21 20:53+0100\n"
+"PO-Revision-Date: 2026-02-21 15:33+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305145/sv/)\n"
 "MIME-Version: 1.0\n"
@@ -12,106 +21,113 @@ msgstr ""
 "Language: sv\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: src/kanslokartan/main.py:1
-msgid "About Emotion Map"
-msgstr "Om Känslokartan"
-
-#: src/kanslokartan/main.py:2
-msgid "Angry"
-msgstr "Arg"
-
-#: src/kanslokartan/main.py:3
-msgid "Calm"
-msgstr "Lugn"
-
-#: src/kanslokartan/main.py:4
-msgid "Correct! \\u2705"
-msgstr "Rätt! \\u2705"
-
-#: src/kanslokartan/main.py:5
-msgid "Date"
-msgstr "Datum"
-
-#: src/kanslokartan/main.py:6
-msgid "Details"
-msgstr "Detaljer"
-
-#: src/kanslokartan/main.py:7
-msgid "Disgusted"
-msgstr "Äcklad"
-
-#: src/kanslokartan/main.py:8
+#: src/export.py:11 src/main.py:81 src/main.py:101
 msgid "Emotion Map"
 msgstr "Känslokartan"
 
-#: src/kanslokartan/main.py:9
-msgid "Export Results"
-msgstr "Exportera resultat"
+#: src/export.py:23
+msgid "Date"
+msgstr "Datum"
 
-#: src/kanslokartan/main.py:10
-msgid "Exported to %s"
-msgstr "Exporterades till %s"
+#: src/export.py:23
+msgid "Details"
+msgstr "Detaljer"
 
-#: src/kanslokartan/main.py:11
-msgid "Happy"
-msgstr "Glad"
-
-#: src/kanslokartan/main.py:12
-msgid "Keyboard Shortcuts"
-msgstr "Tangentbordsgenvägar"
-
-#: src/kanslokartan/main.py:13
-msgid "Next"
-msgstr "Nästa"
-
-#: src/kanslokartan/main.py:14
-msgid "Not quite. It was: %s"
-msgstr "Inte riktigt. Det var: %s"
-
-#: src/kanslokartan/main.py:15
-msgid "Proud"
-msgstr "Stolt"
-
-#: src/kanslokartan/main.py:16
-msgid "Quit"
-msgstr "Avsluta"
-
-#: src/kanslokartan/main.py:17
+#: src/export.py:23
 msgid "Result"
 msgstr "Resultat"
 
-#: src/kanslokartan/main.py:18
+#: src/export.py:45
+msgid "Export"
+msgstr ""
+
+#: src/main.py:25
+msgid "Happy"
+msgstr "Glad"
+
+#: src/main.py:26
 msgid "Sad"
 msgstr "Ledsen"
 
-#: src/kanslokartan/main.py:19
+#: src/main.py:27
+msgid "Angry"
+msgstr "Arg"
+
+#: src/main.py:28
 msgid "Scared"
 msgstr "Rädd"
 
-#: src/kanslokartan/main.py:20
-msgid "Score: %d / %d"
-msgstr "Poäng: %d / %d"
-
-#: src/kanslokartan/main.py:21
-msgid "Score: 0 / 0"
-msgstr "Poäng: 0 / 0"
-
-#: src/kanslokartan/main.py:22
+#: src/main.py:29
 msgid "Surprised"
 msgstr "Förvånad"
 
-#: src/kanslokartan/main.py:23
+#: src/main.py:30
+msgid "Disgusted"
+msgstr "Äcklad"
+
+#: src/main.py:31
+msgid "Calm"
+msgstr "Lugn"
+
+#: src/main.py:32
 msgid "Tired"
 msgstr "Trött"
 
-#: src/kanslokartan/main.py:24
+#: src/main.py:33
+msgid "Worried"
+msgstr "Oroad"
+
+#: src/main.py:34
+msgid "Proud"
+msgstr "Stolt"
+
+#: src/main.py:116
+msgid "Export Results"
+msgstr "Exportera resultat"
+
+#: src/main.py:117
+msgid "Keyboard Shortcuts"
+msgstr "Tangentbordsgenvägar"
+
+#: src/main.py:118
+msgid "About Emotion Map"
+msgstr "Om Känslokartan"
+
+#: src/main.py:119
+msgid "Quit"
+msgstr "Avsluta"
+
+#: src/main.py:123
 msgid "Toggle dark/light theme"
 msgstr "Växla mörkt/ljust tema"
 
-#: src/kanslokartan/main.py:25
+#: src/main.py:127
+msgid "Score: 0 / 0"
+msgstr "Poäng: 0 / 0"
+
+#: src/main.py:138
 msgid "What emotion is this?"
 msgstr "Vilken känsla är det här?"
 
-#: src/kanslokartan/main.py:26
-msgid "Worried"
-msgstr "Oroad"
+#: src/main.py:155
+msgid "Next"
+msgstr "Nästa"
+
+#: src/main.py:198
+msgid "Correct! ✅"
+msgstr ""
+
+#: src/main.py:200
+#, python-format
+msgid "Not quite. It was: %s"
+msgstr "Inte riktigt. Det var: %s"
+
+#: src/main.py:202
+#, python-format
+msgid "Score: %d / %d"
+msgstr "Poäng: %d / %d"
+
+#: src/main.py:225
+#, python-format
+msgid "Exported to %s"
+msgstr "Exporterades till %s"
