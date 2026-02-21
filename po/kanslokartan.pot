@@ -1,0 +1,117 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the kanslokartan package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kanslokartan\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-21 15:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kanslokartan/export.py:13 kanslokartan/main.py:86 kanslokartan/main.py:290
+msgid "Emotion Map"
+msgstr ""
+
+#: kanslokartan/export.py:95
+msgid "Export"
+msgstr ""
+
+#: kanslokartan/export.py:95
+msgid "Choose export format:"
+msgstr ""
+
+#: kanslokartan/export.py:96
+msgid "Cancel"
+msgstr ""
+
+#: kanslokartan/export.py:97
+msgid "CSV"
+msgstr ""
+
+#: kanslokartan/export.py:98
+msgid "JSON"
+msgstr ""
+
+#: kanslokartan/export.py:99
+msgid "PDF"
+msgstr ""
+
+#: kanslokartan/export.py:111
+msgid "Save Export"
+msgstr ""
+
+#: kanslokartan/export.py:132
+#, python-format
+msgid "Exported %s"
+msgstr ""
+
+#: kanslokartan/export.py:135
+#, python-format
+msgid "Export error: %s"
+msgstr ""
+
+#: kanslokartan/main.py:96
+msgid "Export (Ctrl+E)"
+msgstr ""
+
+#: kanslokartan/main.py:101
+msgid "Export Journal"
+msgstr ""
+
+#: kanslokartan/main.py:102
+msgid "About Emotion Map"
+msgstr ""
+
+#: kanslokartan/main.py:103
+msgid "Quit"
+msgstr ""
+
+#: kanslokartan/main.py:123
+msgid "Emotions"
+msgstr ""
+
+#: kanslokartan/main.py:128
+msgid "Journal"
+msgstr ""
+
+#: kanslokartan/main.py:154 kanslokartan/main.py:230
+msgid "Emotion Journal"
+msgstr ""
+
+#: kanslokartan/main.py:164
+msgid "How are you feeling?"
+msgstr ""
+
+#: kanslokartan/main.py:213
+msgid "Try this:"
+msgstr ""
+
+#: kanslokartan/main.py:217
+msgid "OK"
+msgstr ""
+
+#: kanslokartan/main.py:218
+msgid "Listen"
+msgstr ""
+
+#: kanslokartan/main.py:222
+#, python-format
+msgid "Logged: %s %s"
+msgstr ""
+
+#: kanslokartan/main.py:241
+msgid "Clear Journal"
+msgstr ""
+
+#: kanslokartan/main.py:297
+msgid "Emotion recognition and journal for autism and ADHD"
+msgstr ""

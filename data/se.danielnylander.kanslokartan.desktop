@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Emotion Map
+Name[sv]=Känslokartan
+GenericName=Emotion Map
+GenericName[sv]=Känslokartan
+Comment=Emotion recognition and journal for autism and ADHD
+Comment[sv]=Känsloigenkänning och känslojournal för autism och ADHD
+Exec=kanslokartan
+Icon=se.danielnylander.kanslokartan
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Utility;Accessibility;
+Keywords=emotions;feelings;autism;adhd;journal;
+Keywords[sv]=känslor;autism;adhd;journal;dagbok;
