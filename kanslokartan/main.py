@@ -260,7 +260,7 @@ class MainWindow(Adw.ApplicationWindow):
             row.set_subtitle(entry.get("date", ""))
             self.journal_list.append(row)
 
-    def _on_clear_journal(self, *_):
+    def _on_clear_journal(self, *_args):
         self.journal = []
         _save_journal(self.journal)
         self._refresh_journal()
@@ -271,7 +271,7 @@ class App(Adw.Application):
         super().__init__(application_id=APP_ID)
         self.connect("activate", self._on_activate)
 
-    def _on_activate(self, *_):
+    def _on_activate(self, *_args):
         win = self.props.active_window or MainWindow(self)
         self._add_action("about", self._on_about)
         quit_a = Gio.SimpleAction(name="quit")
@@ -285,7 +285,7 @@ class App(Adw.Application):
         a.connect("activate", cb)
         self.add_action(a)
 
-    def _on_about(self, *_):
+    def _on_about(self, *_args):
         dialog = Adw.AboutDialog(
             application_name=_("Emotion Map"),
             application_icon=APP_ID,
