@@ -23,3 +23,10 @@ GPL-3.0
 ## Author
 
 Daniel Nylander — [danielnylander.se](https://danielnylander.se)
+
+## Screenshots
+
+![kanslokartan (English)](screenshots/kanslokartan_en.png)
+
+![kanslokartan (Svenska)](screenshots/kanslokartan_sv.png)
+
