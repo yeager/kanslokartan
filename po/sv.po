@@ -40,7 +40,7 @@ msgstr "Resultat"
 
 #: src/kanslokartan/export.py:45
 msgid "Export"
-msgstr ""
+msgstr "Exportera"
 
 #: src/kanslokartan/main.py:25
 msgid "Happy"
@@ -116,7 +116,7 @@ msgstr "Nästa"
 
 #: src/kanslokartan/main.py:221
 msgid "Correct! ✅"
-msgstr ""
+msgstr "Rätt! ✅"
 
 #: src/kanslokartan/main.py:223
 #, python-format
@@ -135,11 +135,11 @@ msgstr "Exporterades till %s"
 
 #: src/kanslokartan/main.py:271
 msgid "Welcome"
-msgstr ""
+msgstr "Välkommen"
 
 #: src/kanslokartan/main.py:277
 msgid "Welcome to Emotion Map"
-msgstr ""
+msgstr "Välkommen till Känslokartan"
 
 #: src/kanslokartan/main.py:279
 msgid ""
@@ -150,7 +150,13 @@ msgid ""
 "✓ Learn emotion vocabulary\n"
 "✓ Suitable for all ages"
 msgstr ""
+"Utforska och förstå känslor med hjälp av visuella hjälpmedel.\n"
+"\n"
+"✓ Känna igen känslor med hjälp av känsloikoner\n"
+"✓ Följa hur du mår över tid\n"
+"✓ Lära dig ordförråd för känslor\n"
+"✓ Passar alla åldrar"
 
 #: src/kanslokartan/main.py:282
 msgid "Get Started"
-msgstr ""
+msgstr "Kom igång"
