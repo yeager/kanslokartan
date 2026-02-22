@@ -1,29 +1,25 @@
-# Emotion Map
+# Känslokartan
 
-Emotion recognition training with emoji faces.
+Emotion recognition and journal for autism and ADHD.
 
-GTK4/Adwaita · Python · v0.1.5 · 31 translatable strings
+Built with GTK4/Adwaita. Part of the [Danne L10n Suite](https://github.com/yeager/debian-repo).
 
-Part of [Autismappar](https://autismappar.se) — free tools for children with autism, language disorders and ADHD.
+## Installation
 
-## Install
-
-### Ubuntu / Debian
+### Debian/Ubuntu
 ```bash
 sudo apt install kanslokartan
 ```
-Repo: [yeager/debian-repo](https://github.com/yeager/debian-repo)
 
-### Fedora
+### Fedora/RPM
 ```bash
 sudo dnf install kanslokartan
 ```
-Repo: [yeager/rpm-repo](https://github.com/yeager/rpm-repo)
-
-## Translation
-
-Translated via [Transifex](https://app.transifex.com/danielnylander/kanslokartan/). 11 languages.
 
 ## License
 
-GPL-3.0-or-later · Daniel Nylander <daniel@danielnylander.se>
+GPL-3.0
+
+## Author
+
+Daniel Nylander — [danielnylander.se](https://danielnylander.se)
