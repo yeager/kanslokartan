@@ -99,7 +99,7 @@ class KansloApp(Adw.Application):
             if accel:
                 self.set_accels_for_action(f"app.{name}", [accel])
 
-    def _on_about(self, *_):
+    def _on_about(self, *_args):
         d = Adw.AboutDialog(
             application_name=_("Emotion Map"), application_icon="kanslokartan",
             version=__version__, developer_name="Daniel Nylander",
@@ -109,10 +109,10 @@ class KansloApp(Adw.Application):
             copyright="\u00a9 2026 Daniel Nylander")
         d.present(self.props.active_window)
 
-    def _on_shortcuts(self, *_):
+    def _on_shortcuts(self, *_args):
         pass  # TODO
 
-    def _on_export(self, *_):
+    def _on_export(self, *_args):
         w = self.props.active_window
         if w:
             w.do_export()
@@ -247,7 +247,7 @@ class KansloWindow(Adw.ApplicationWindow):
         export_json(data, os.path.join(CONFIG_DIR, f"export_{ts}.json"))
         self.feedback_label.set_label(_("Exported to %s") % CONFIG_DIR)
 
-    def _toggle_theme(self, *_):
+    def _toggle_theme(self, *_args):
         mgr = Adw.StyleManager.get_default()
         mgr.set_color_scheme(
             Adw.ColorScheme.FORCE_LIGHT if mgr.get_dark() else Adw.ColorScheme.FORCE_DARK)
