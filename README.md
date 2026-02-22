@@ -1,21 +1,29 @@
 # Känslokartan
 
-Emotion recognition and journal for autism and ADHD
+Känsloigenkänning med emoji-ansikten.
 
-Part of [Autismappar](https://www.autismappar.se) — free apps for autism, language disorders and ADHD.
+GTK4/Adwaita · Python · v0.1.5 · 31 översättningsbara strängar
 
-## Install
+Del av [Autismappar](https://autismappar.se) — fria verktyg för barn med autism, språkstörning och ADHD.
 
-### Ubuntu/Debian
+## Installation
+
+### Ubuntu / Debian
 ```bash
 sudo apt install kanslokartan
 ```
+Repo: [yeager/debian-repo](https://github.com/yeager/debian-repo)
 
 ### Fedora
 ```bash
 sudo dnf install kanslokartan
 ```
+Repo: [yeager/rpm-repo](https://github.com/yeager/rpm-repo)
 
-## License
+## Översättning
 
-GPL-3.0-or-later
+Översätts via [Transifex](https://app.transifex.com/danielnylander/kanslokartan/). 11 språk.
+
+## Licens
+
+GPL-3.0-or-later · Daniel Nylander <daniel@danielnylander.se>
