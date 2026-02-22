@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-21 20:53+0100\n"
+"POT-Creation-Date: 2026-02-22 06:01+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,113 +17,136 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/export.py:11 src/main.py:81 src/main.py:101
+#: src/kanslokartan/export.py:11 src/kanslokartan/main.py:104
+#: src/kanslokartan/main.py:124
 msgid "Emotion Map"
 msgstr ""
 
-#: src/export.py:23
+#: src/kanslokartan/export.py:23
 msgid "Date"
 msgstr ""
 
-#: src/export.py:23
+#: src/kanslokartan/export.py:23
 msgid "Details"
 msgstr ""
 
-#: src/export.py:23
+#: src/kanslokartan/export.py:23
 msgid "Result"
 msgstr ""
 
-#: src/export.py:45
+#: src/kanslokartan/export.py:45
 msgid "Export"
 msgstr ""
 
-#: src/main.py:25
+#: src/kanslokartan/main.py:25
 msgid "Happy"
 msgstr ""
 
-#: src/main.py:26
+#: src/kanslokartan/main.py:26
 msgid "Sad"
 msgstr ""
 
-#: src/main.py:27
+#: src/kanslokartan/main.py:27
 msgid "Angry"
 msgstr ""
 
-#: src/main.py:28
+#: src/kanslokartan/main.py:28
 msgid "Scared"
 msgstr ""
 
-#: src/main.py:29
+#: src/kanslokartan/main.py:29
 msgid "Surprised"
 msgstr ""
 
-#: src/main.py:30
+#: src/kanslokartan/main.py:30
 msgid "Disgusted"
 msgstr ""
 
-#: src/main.py:31
+#: src/kanslokartan/main.py:31
 msgid "Calm"
 msgstr ""
 
-#: src/main.py:32
+#: src/kanslokartan/main.py:32
 msgid "Tired"
 msgstr ""
 
-#: src/main.py:33
+#: src/kanslokartan/main.py:33
 msgid "Worried"
 msgstr ""
 
-#: src/main.py:34
+#: src/kanslokartan/main.py:34
 msgid "Proud"
 msgstr ""
 
-#: src/main.py:116
+#: src/kanslokartan/main.py:139
 msgid "Export Results"
 msgstr ""
 
-#: src/main.py:117
+#: src/kanslokartan/main.py:140
 msgid "Keyboard Shortcuts"
 msgstr ""
 
-#: src/main.py:118
+#: src/kanslokartan/main.py:141
 msgid "About Emotion Map"
 msgstr ""
 
-#: src/main.py:119
+#: src/kanslokartan/main.py:142
 msgid "Quit"
 msgstr ""
 
-#: src/main.py:123
+#: src/kanslokartan/main.py:146
 msgid "Toggle dark/light theme"
 msgstr ""
 
-#: src/main.py:127
+#: src/kanslokartan/main.py:150
 msgid "Score: 0 / 0"
 msgstr ""
 
-#: src/main.py:138
+#: src/kanslokartan/main.py:161
 msgid "What emotion is this?"
 msgstr ""
 
-#: src/main.py:155
+#: src/kanslokartan/main.py:178
 msgid "Next"
 msgstr ""
 
-#: src/main.py:198
+#: src/kanslokartan/main.py:221
 msgid "Correct! ✅"
 msgstr ""
 
-#: src/main.py:200
+#: src/kanslokartan/main.py:223
 #, python-format
 msgid "Not quite. It was: %s"
 msgstr ""
 
-#: src/main.py:202
+#: src/kanslokartan/main.py:225
 #, python-format
 msgid "Score: %d / %d"
 msgstr ""
 
-#: src/main.py:225
+#: src/kanslokartan/main.py:248
 #, python-format
 msgid "Exported to %s"
+msgstr ""
+
+#: src/kanslokartan/main.py:271
+msgid "Welcome"
+msgstr ""
+
+#: src/kanslokartan/main.py:277
+msgid "Welcome to Emotion Map"
+msgstr ""
+
+#: src/kanslokartan/main.py:279
+msgid ""
+"Explore and understand emotions with visual aids.\n"
+"\n"
+"✓ Emotion recognition with emoji\n"
+"✓ Track how you feel over time\n"
+"✓ Learn emotion vocabulary\n"
+"✓ Suitable for all ages"
+msgstr ""
+
+#: src/kanslokartan/main.py:282
+msgid "Get Started"
 msgstr ""
