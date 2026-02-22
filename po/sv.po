@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kanslokartan\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 17:03+0100\n"
+"POT-Creation-Date: 2026-02-22 17:04+0100\n"
 "PO-Revision-Date: 2026-02-21 15:33+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305145/sv/)\n"
@@ -33,45 +33,45 @@ msgstr "Exportera"
 
 #: kanslokartan/export.py:95
 msgid "Choose export format:"
-msgstr ""
+msgstr "Välj exportformat:"
 
 #: kanslokartan/export.py:96
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 #: kanslokartan/export.py:97
 msgid "CSV"
-msgstr ""
+msgstr "CSV"
 
 #: kanslokartan/export.py:98
 msgid "JSON"
-msgstr ""
+msgstr "JSON"
 
 #: kanslokartan/export.py:99
 msgid "PDF"
-msgstr ""
+msgstr "PDF"
 
 #: kanslokartan/export.py:111
 msgid "Save Export"
-msgstr ""
+msgstr "Spara export"
 
 #: kanslokartan/export.py:132
 #, python-format
 msgid "Exported %s"
-msgstr ""
+msgstr "Exporterade %s"
 
 #: kanslokartan/export.py:135
 #, python-format
 msgid "Export error: %s"
-msgstr ""
+msgstr "Exportfel: %s"
 
 #: kanslokartan/main.py:96
 msgid "Export (Ctrl+E)"
-msgstr ""
+msgstr "Exportera (Ctrl+E)"
 
 #: kanslokartan/main.py:101
 msgid "Export Journal"
-msgstr ""
+msgstr "Exportera dagbok"
 
 #: kanslokartan/main.py:102 src/kanslokartan/main.py:142
 msgid "About Emotion Map"
@@ -83,44 +83,44 @@ msgstr "Avsluta"
 
 #: kanslokartan/main.py:123
 msgid "Emotions"
-msgstr ""
+msgstr "Känslor"
 
 #: kanslokartan/main.py:128
 msgid "Journal"
-msgstr ""
+msgstr "Dagbok"
 
 #: kanslokartan/main.py:154 kanslokartan/main.py:230
 msgid "Emotion Journal"
-msgstr ""
+msgstr "Känslodagbok"
 
 #: kanslokartan/main.py:164
 msgid "How are you feeling?"
-msgstr ""
+msgstr "Hur mår du?"
 
 #: kanslokartan/main.py:213
 msgid "Try this:"
-msgstr ""
+msgstr "Prova detta:"
 
 #: kanslokartan/main.py:217
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: kanslokartan/main.py:218
 msgid "Listen"
-msgstr ""
+msgstr "Lyssna"
 
 #: kanslokartan/main.py:222
 #, python-format
 msgid "Logged: %s %s"
-msgstr ""
+msgstr "Loggade: %s %s"
 
 #: kanslokartan/main.py:241
 msgid "Clear Journal"
-msgstr ""
+msgstr "Töm dagbok"
 
 #: kanslokartan/main.py:297
 msgid "Emotion recognition and journal for autism and ADHD"
-msgstr ""
+msgstr "Känsloigenkänning och dagbok för autism och ADHD"
 
 #: src/kanslokartan/export.py:23
 msgid "Date"
