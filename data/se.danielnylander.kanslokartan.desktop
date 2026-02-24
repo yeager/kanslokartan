@@ -9,6 +9,6 @@ Exec=kanslokartan
 Icon=se.danielnylander.kanslokartan
 Terminal=false
 Type=Application
-Categories=GNOME;GTK;Utility;Accessibility;
+Categories=GNOME;GTK;Utility;Accessibility;Autismappar
 Keywords=emotions;feelings;autism;adhd;journal;
 Keywords[sv]=känslor;autism;adhd;journal;dagbok;
