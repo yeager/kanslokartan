@@ -1,3 +1,5 @@
+> **⚠️ This app has been migrated to the Autismappar PWA at https://autismappar.se**
+
 # Känslokartan
 
 Emotion recognition and journal for autism and ADHD.
@@ -29,4 +31,3 @@ Daniel Nylander — [danielnylander.se](https://danielnylander.se)
 ![kanslokartan (English)](screenshots/kanslokartan_en.png)
 
 ![kanslokartan (Svenska)](screenshots/kanslokartan_sv.png)
-
